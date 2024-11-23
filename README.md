@@ -30,7 +30,9 @@ A análise RFV é uma técnica de segmentação de clientes baseada em:
 - Recência: Quantos dias se passaram desde a última compra.
 - Frequência: Número total de compras realizadas.
 - Valor Monetário: Total gasto pelo cliente.
+  
 Benefícios:
+
 - Identificação de melhores clientes.
 - Definição de estratégias de retenção.
 - Reconhecimento de clientes em risco de churn.
